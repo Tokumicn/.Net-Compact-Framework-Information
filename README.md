@@ -1,0 +1,22 @@
+# .Net-Compact-Framework-Information
+.Net Compact Framework 3.5  Information 搜集的关于该平台的一些信息汇总
+
+
+#### .NET Compact Framework 3.5新增内容：
+[microsoft官方介绍](https://msdn.microsoft.com/en-us/library/bb397835(v=vs.90).aspx)
+- ##### Windows Communication Foundation(WCF)
+- ##### LINQ
+  -  relational databases
+  -  XML data
+  -  in-memory objects
+- ##### Windows Forms
+  - Panel
+  - Splitter
+  - PictureBox
+- ##### SoundPlayer 声音播放对象
+- ##### Compression 压缩与解压缩
+  - ###### NET Compact Framework 3.5添加了对System.IO.Compression命名空间中的以下类的支持：
+  1. CompressionMode
+  2. DeflateStream
+  3. GZipStream
+- ##### Delegates
